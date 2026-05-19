@@ -121,11 +121,11 @@ System delivery    APIs, authentication, file uploads, reports, mobile sync
 ## Delivery Capabilities
 
 | Backend systems | Data and reporting |
-| --- | --- |
+| ---- | ---- |
 | <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jorg1230&theme=github_dark" alt="Repos per language" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jorg1230&theme=github_dark" alt="Most commit language" /> |
 
 | Runtime activity | Productive time |
-| --- | --- |
+| ---- | ---- |
 | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jorg1230&theme=github_dark" alt="Profile details" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jorg1230&theme=github_dark&utcOffset=-5" alt="Productive time" /> |
 
 ```text
