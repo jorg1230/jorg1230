@@ -157,17 +157,17 @@ Mobile delivery         Android Compose, local persistence, API communication, l
 
 ## GitHub Analytics
 
-<div align="center">
+| Profile stats | Contribution streak |
+| --- | --- |
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jorg1230&theme=github_dark" alt="Profile stats" /> | <img src="https://streak-stats.demolab.com?user=jorg1230&theme=github-dark-blue&hide_border=true&card_width=420" alt="Contribution streak" /> |
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jorg1230&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=jorg1230&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+| Language distribution | Productive time |
+| --- | --- |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorg1230&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=420" alt="Top languages" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jorg1230&theme=github_dark&utcOffset=-5" alt="Productive time" /> |
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorg1230&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=jorg1230&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=3" alt="GitHub trophies" />
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=jorg1230&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity" />
-
-</div>
+| Contribution activity |
+| --- |
+| <img src="https://github-readme-activity-graph.vercel.app/graph?username=jorg1230&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity" /> |
 
 ---
 
