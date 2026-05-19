@@ -150,14 +150,30 @@ System delivery    APIs, authentication, file uploads, reports, mobile sync
   </tr>
 </table>
 
-```text
-APIs and services       Express, TypeScript, PHP, authentication, uploads, scheduled jobs
-Business workflows      Contracts, customers, payments, cash, inventory, reports
-Data pipelines          SQL scripts, Excel/CSV imports, spreadsheet exports, PDF output
-Dashboards              React charts, Power BI embedding, analytical UI components
-Desktop delivery        WinForms and Electron applications for internal operations
-Mobile delivery         Android Compose, local persistence, API communication, location
-```
+<table>
+  <tr>
+    <td align="center" width="166">
+      <img src="https://img.shields.io/badge/Manual%20de%20Usuario-111827?style=for-the-badge&logo=bookstack&logoColor=38BDF8" alt="Manual de Usuario" />
+    </td>
+    <td align="center" width="166">
+      <img src="https://img.shields.io/badge/Dashboard-111827?style=for-the-badge&logo=grafana&logoColor=F97316" alt="Dashboard" />
+    </td>
+    <td align="center" width="166">
+      <img src="https://img.shields.io/badge/Reportes-111827?style=for-the-badge&logo=googledocs&logoColor=60A5FA" alt="Reportes" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="166">
+      <img src="https://img.shields.io/badge/Configuracion-111827?style=for-the-badge&logo=gnometerminal&logoColor=94A3B8" alt="Configuracion" />
+    </td>
+    <td align="center" width="166">
+      <img src="https://img.shields.io/badge/Seguridad-111827?style=for-the-badge&logo=auth0&logoColor=F43F5E" alt="Seguridad" />
+    </td>
+    <td align="center" width="166">
+      <img src="https://img.shields.io/badge/Analitica-111827?style=for-the-badge&logo=powerbi&logoColor=FACC15" alt="Analitica" />
+    </td>
+  </tr>
+</table>
 
 ---
 
