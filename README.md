@@ -120,32 +120,32 @@ System delivery    APIs, authentication, file uploads, reports, mobile sync
 
 ## Delivery Capabilities
 
-<table width="100%">
+<table>
   <tr>
-    <th width="50%">Backend systems</th>
-    <th width="50%">Data and reporting</th>
+    <th width="500">Backend systems</th>
+    <th width="500">Data and reporting</th>
   </tr>
   <tr>
-    <td width="50%">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jorg1230&theme=github_dark" alt="Repos per language" />
+    <td width="500">
+      <img width="490" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jorg1230&theme=github_dark" alt="Repos per language" />
     </td>
-    <td width="50%">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jorg1230&theme=github_dark" alt="Most commit language" />
+    <td width="500">
+      <img width="490" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jorg1230&theme=github_dark" alt="Most commit language" />
     </td>
   </tr>
 </table>
 
-<table width="100%">
+<table>
   <tr>
-    <th width="66%">Runtime activity</th>
-    <th width="34%">Productive time</th>
+    <th width="660">Runtime activity</th>
+    <th width="340">Productive time</th>
   </tr>
   <tr>
-    <td width="66%">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jorg1230&theme=github_dark" alt="Profile details" />
+    <td width="660">
+      <img width="650" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jorg1230&theme=github_dark" alt="Profile details" />
     </td>
-    <td width="34%">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jorg1230&theme=github_dark&utcOffset=-5" alt="Productive time" />
+    <td width="340">
+      <img width="330" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jorg1230&theme=github_dark&utcOffset=-5" alt="Productive time" />
     </td>
   </tr>
 </table>
@@ -163,59 +163,65 @@ Mobile delivery         Android Compose, local persistence, API communication, l
 
 ## Data and Reporting Tools
 
-![Power BI](https://img.shields.io/badge/Power_BI-0F172A?style=for-the-badge&logo=powerbi)
-![Chart.js](https://img.shields.io/badge/Chart.js-0F172A?style=for-the-badge&logo=chartdotjs)
-![Recharts](https://img.shields.io/badge/Recharts-0F172A?style=for-the-badge)
-![MPAndroidChart](https://img.shields.io/badge/MPAndroidChart-0F172A?style=for-the-badge)
-![ExcelJS](https://img.shields.io/badge/ExcelJS-0F172A?style=for-the-badge)
-![XLSX](https://img.shields.io/badge/XLSX-0F172A?style=for-the-badge)
-![PhpSpreadsheet](https://img.shields.io/badge/PhpSpreadsheet-0F172A?style=for-the-badge)
-![SimpleXLSX](https://img.shields.io/badge/SimpleXLSX-0F172A?style=for-the-badge)
-![PapaParse](https://img.shields.io/badge/PapaParse-0F172A?style=for-the-badge)
-![PDFKit](https://img.shields.io/badge/PDFKit-0F172A?style=for-the-badge)
-![PDF.js](https://img.shields.io/badge/PDF.js-0F172A?style=for-the-badge)
+<p align="center">
+  <img height="42" src="https://cdn.simpleicons.org/powerbi/F2C811" title="Power BI" alt="Power BI" />
+  &nbsp;&nbsp;
+  <img height="42" src="https://cdn.simpleicons.org/chartdotjs/FF6384" title="Chart.js" alt="Chart.js" />
+  &nbsp;&nbsp;
+  <img height="42" src="https://cdn.simpleicons.org/react/61DAFB" title="Recharts" alt="Recharts" />
+  &nbsp;&nbsp;
+  <img height="42" src="https://cdn.simpleicons.org/android/3DDC84" title="MPAndroidChart" alt="MPAndroidChart" />
+  &nbsp;&nbsp;
+  <img height="42" src="https://cdn.simpleicons.org/microsoftexcel/217346" title="Excel, XLSX and spreadsheet processing" alt="Excel and XLSX" />
+  &nbsp;&nbsp;
+  <img height="42" src="https://cdn.simpleicons.org/php/777BB4" title="PhpSpreadsheet and SimpleXLSX" alt="PHP spreadsheet libraries" />
+  &nbsp;&nbsp;
+  <img height="42" src="https://cdn.simpleicons.org/javascript/F7DF1E" title="PapaParse, CSV parsing and PDFKit" alt="JavaScript data tools" />
+  &nbsp;&nbsp;
+  <img height="42" src="https://cdn.simpleicons.org/adobeacrobatreader/EC1C24" title="PDF generation and PDF.js" alt="PDF tools" />
+</p>
 
 ---
 
 ## GitHub Analytics
 
-<table width="100%">
+<table>
   <tr>
-    <th width="50%">Profile stats</th>
-    <th width="50%">Code distribution</th>
+    <th width="500">Profile stats</th>
+    <th width="500">Code distribution</th>
   </tr>
   <tr>
-    <td width="50%">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jorg1230&theme=github_dark" alt="Profile stats" />
+    <td width="500">
+      <img width="490" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jorg1230&theme=github_dark" alt="Profile stats" />
     </td>
-    <td width="50%">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jorg1230&theme=github_dark" alt="Most commit language" />
-    </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <th width="50%">Language distribution</th>
-    <th width="50%">Productive time</th>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jorg1230&theme=github_dark" alt="Repos per language" />
-    </td>
-    <td width="50%">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jorg1230&theme=github_dark&utcOffset=-5" alt="Productive time" />
+    <td width="500">
+      <img width="490" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jorg1230&theme=github_dark" alt="Most commit language" />
     </td>
   </tr>
 </table>
 
-<table width="100%">
+<table>
   <tr>
-    <th>Contribution activity</th>
+    <th width="500">Language distribution</th>
+    <th width="500">Productive time</th>
   </tr>
   <tr>
-    <td>
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jorg1230&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity" />
+    <td width="500">
+      <img width="490" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jorg1230&theme=github_dark" alt="Repos per language" />
+    </td>
+    <td width="500">
+      <img width="490" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jorg1230&theme=github_dark&utcOffset=-5" alt="Productive time" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th width="1000">Contribution activity</th>
+  </tr>
+  <tr>
+    <td width="1000">
+      <img width="990" src="https://github-readme-activity-graph.vercel.app/graph?username=jorg1230&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity" />
     </td>
   </tr>
 </table>
