@@ -1,19 +1,21 @@
 <h1 align="center">Jorge Luis Moreno Lara</h1>
 
+<h3 align="center">Software Engineer | DevOps and Cloud Specialist | IBM Certified | Analysis and Software Development Technologist</h3>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=760&lines=Software+Engineer;Backend+and+Enterprise+Systems;Data+Platforms+and+Operational+Automation;APIs%2C+Dashboards%2C+Desktop+and+Mobile+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=860&lines=Software+Engineer;DevOps+and+Cloud+Specialist;IBM+Certified;Analysis+and+Software+Development+Technologist;APIs%2C+Dashboards%2C+Desktop+and+Mobile+Apps" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/jorg1230">
-    <img src="https://img.shields.io/badge/GitHub-jorg1230-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-jorg1230-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/jorge-luis-moreno-94712836b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Jorge%20Luis%20Moreno-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Jorge%20Luis%20Moreno-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=jorg1230&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=jorg1230&label=Profile%20Views&color=172B4D&style=for-the-badge" alt="Profile views" />
 </p>
 
 <h4 align="center">
@@ -30,7 +32,7 @@
 
 ## Engineering Profile
 
-Software developer focused on enterprise systems, backend services, internal platforms, operational automation, data workflows and business reporting.
+Software Engineer, DevOps and Cloud Specialist, IBM Certified, and Analysis and Software Development Technologist focused on enterprise systems, backend services, internal platforms, operational automation, data workflows and business reporting.
 
 The stack detected across the codebase includes TypeScript, JavaScript, Node.js, Express, React, Vite, C#, .NET Framework, Windows Forms, PHP 8, Kotlin, Android, SQL, MySQL, MariaDB, SQL Server, MongoDB, Power BI, Docker Compose, Nginx and spreadsheet/PDF processing libraries.
 
@@ -40,6 +42,17 @@ Interface work     React, Ant Design, Tailwind CSS, WinForms, Electron, Android
 Data work          SQL, CSV, Excel, Power BI, charts, PDF generation
 System delivery    APIs, authentication, file uploads, reports, mobile sync
 ```
+
+---
+
+## Credentials
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IBM_Certified-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Certified" />
+  <img src="https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="DevOps" />
+  <img src="https://img.shields.io/badge/Cloud_Specialist-0078D4?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud Specialist" />
+  <img src="https://img.shields.io/badge/Analysis_and_Software_Development-2C3454?style=for-the-badge&logo=codersrank&logoColor=white" alt="Analysis and Software Development" />
+</p>
 
 ---
 
@@ -152,25 +165,25 @@ System delivery    APIs, authentication, file uploads, reports, mobile sync
 
 <table>
   <tr>
-    <td align="center" width="166">
-      <img src="https://img.shields.io/badge/Manual%20de%20Usuario-111827?style=for-the-badge&logo=bookstack&logoColor=38BDF8" alt="Manual de Usuario" />
+    <td align="center" width="333">
+      <img width="300" src="https://img.shields.io/badge/Manual%20de%20Usuario-111827?style=for-the-badge&logo=bookstack&logoColor=38BDF8" alt="Manual de Usuario" />
     </td>
-    <td align="center" width="166">
-      <img src="https://img.shields.io/badge/Dashboard-111827?style=for-the-badge&logo=grafana&logoColor=F97316" alt="Dashboard" />
+    <td align="center" width="333">
+      <img width="300" src="https://img.shields.io/badge/Dashboard-111827?style=for-the-badge&logo=grafana&logoColor=F97316" alt="Dashboard" />
     </td>
-    <td align="center" width="166">
-      <img src="https://img.shields.io/badge/Reportes-111827?style=for-the-badge&logo=googledocs&logoColor=60A5FA" alt="Reportes" />
+    <td align="center" width="333">
+      <img width="300" src="https://img.shields.io/badge/Reportes-111827?style=for-the-badge&logo=googledocs&logoColor=60A5FA" alt="Reportes" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="166">
-      <img src="https://img.shields.io/badge/Configuracion-111827?style=for-the-badge&logo=gnometerminal&logoColor=94A3B8" alt="Configuracion" />
+    <td align="center" width="333">
+      <img width="300" src="https://img.shields.io/badge/Configuracion-111827?style=for-the-badge&logo=gnometerminal&logoColor=94A3B8" alt="Configuracion" />
     </td>
-    <td align="center" width="166">
-      <img src="https://img.shields.io/badge/Seguridad-111827?style=for-the-badge&logo=auth0&logoColor=F43F5E" alt="Seguridad" />
+    <td align="center" width="333">
+      <img width="300" src="https://img.shields.io/badge/Seguridad-111827?style=for-the-badge&logo=auth0&logoColor=F43F5E" alt="Seguridad" />
     </td>
-    <td align="center" width="166">
-      <img src="https://img.shields.io/badge/Analitica-111827?style=for-the-badge&logo=powerbi&logoColor=FACC15" alt="Analitica" />
+    <td align="center" width="333">
+      <img width="300" src="https://img.shields.io/badge/Analitica-111827?style=for-the-badge&logo=powerbi&logoColor=FACC15" alt="Analitica" />
     </td>
   </tr>
 </table>
