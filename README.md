@@ -1,4 +1,4 @@
-<h1 align="center">Jorge Luis Moreno</h1>
+<h1 align="center">Jorge Luis Moreno Lara</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
