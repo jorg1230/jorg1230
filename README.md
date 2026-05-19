@@ -120,13 +120,35 @@ System delivery    APIs, authentication, file uploads, reports, mobile sync
 
 ## Delivery Capabilities
 
-| Backend systems | Data and reporting |
-| --- | --- |
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jorg1230&theme=github_dark" alt="Repos per language" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jorg1230&theme=github_dark" alt="Most commit language" /> |
+<table width="100%">
+  <tr>
+    <th width="50%">Backend systems</th>
+    <th width="50%">Data and reporting</th>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jorg1230&theme=github_dark" alt="Repos per language" />
+    </td>
+    <td width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jorg1230&theme=github_dark" alt="Most commit language" />
+    </td>
+  </tr>
+</table>
 
-| Runtime activity | Productive time |
-| --- | --- |
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jorg1230&theme=github_dark" alt="Profile details" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jorg1230&theme=github_dark&utcOffset=-5" alt="Productive time" /> |
+<table width="100%">
+  <tr>
+    <th width="66%">Runtime activity</th>
+    <th width="34%">Productive time</th>
+  </tr>
+  <tr>
+    <td width="66%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jorg1230&theme=github_dark" alt="Profile details" />
+    </td>
+    <td width="34%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jorg1230&theme=github_dark&utcOffset=-5" alt="Productive time" />
+    </td>
+  </tr>
+</table>
 
 ```text
 APIs and services       Express, TypeScript, PHP, authentication, uploads, scheduled jobs
@@ -157,17 +179,46 @@ Mobile delivery         Android Compose, local persistence, API communication, l
 
 ## GitHub Analytics
 
-| Profile stats | Contribution streak |
-| --- | --- |
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jorg1230&theme=github_dark" alt="Profile stats" /> | <img src="https://streak-stats.demolab.com?user=jorg1230&theme=github-dark-blue&hide_border=true&card_width=420" alt="Contribution streak" /> |
+<table width="100%">
+  <tr>
+    <th width="50%">Profile stats</th>
+    <th width="50%">Code distribution</th>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jorg1230&theme=github_dark" alt="Profile stats" />
+    </td>
+    <td width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jorg1230&theme=github_dark" alt="Most commit language" />
+    </td>
+  </tr>
+</table>
 
-| Language distribution | Productive time |
-| --- | --- |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorg1230&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=420" alt="Top languages" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jorg1230&theme=github_dark&utcOffset=-5" alt="Productive time" /> |
+<table width="100%">
+  <tr>
+    <th width="50%">Language distribution</th>
+    <th width="50%">Productive time</th>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jorg1230&theme=github_dark" alt="Repos per language" />
+    </td>
+    <td width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jorg1230&theme=github_dark&utcOffset=-5" alt="Productive time" />
+    </td>
+  </tr>
+</table>
 
-| Contribution activity |
-| --- |
-| <img src="https://github-readme-activity-graph.vercel.app/graph?username=jorg1230&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity" /> |
+<table width="100%">
+  <tr>
+    <th>Contribution activity</th>
+  </tr>
+  <tr>
+    <td>
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jorg1230&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity" />
+    </td>
+  </tr>
+</table>
 
 ---
 
