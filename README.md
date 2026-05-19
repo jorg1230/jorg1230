@@ -163,23 +163,22 @@ Mobile delivery         Android Compose, local persistence, API communication, l
 
 ## Data and Reporting Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-%20-0F172A?style=for-the-badge&logo=powerbi&logoColor=F2C811" title="Power BI" alt="Power BI" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-%20-0F172A?style=for-the-badge&logo=chartdotjs&logoColor=FF6384" title="Chart.js" alt="Chart.js" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-%20-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" title="Recharts" alt="Recharts" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-%20-0F172A?style=for-the-badge&logo=android&logoColor=3DDC84" title="MPAndroidChart" alt="MPAndroidChart" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-%20-0F172A?style=for-the-badge&logo=microsoftexcel&logoColor=217346" title="Excel, XLSX and spreadsheet processing" alt="Excel and XLSX" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-%20-0F172A?style=for-the-badge&logo=php&logoColor=777BB4" title="PhpSpreadsheet and SimpleXLSX" alt="PHP spreadsheet libraries" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-%20-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" title="PapaParse, CSV parsing and PDFKit" alt="JavaScript data tools" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-%20-0F172A?style=for-the-badge&logo=adobeacrobatreader&logoColor=EC1C24" title="PDF generation and PDF.js" alt="PDF tools" />
-</p>
+### Analytics and Visualization
+
+![Power BI](https://img.shields.io/badge/Power_BI-111827?style=flat-square&logo=powerbi)
+![Chart.js](https://img.shields.io/badge/Chart.js-111827?style=flat-square&logo=chartdotjs)
+![Recharts](https://img.shields.io/badge/Recharts-111827?style=flat-square&logo=react)
+![MPAndroidChart](https://img.shields.io/badge/MPAndroidChart-111827?style=flat-square&logo=android)
+
+### Files and Documents
+
+![ExcelJS](https://img.shields.io/badge/ExcelJS-111827?style=flat-square&logo=microsoftexcel)
+![XLSX](https://img.shields.io/badge/XLSX-111827?style=flat-square&logo=microsoftexcel)
+![PhpSpreadsheet](https://img.shields.io/badge/PhpSpreadsheet-111827?style=flat-square&logo=php)
+![SimpleXLSX](https://img.shields.io/badge/SimpleXLSX-111827?style=flat-square&logo=php)
+![PapaParse](https://img.shields.io/badge/PapaParse-111827?style=flat-square&logo=javascript)
+![PDFKit](https://img.shields.io/badge/PDFKit-111827?style=flat-square&logo=javascript)
+![PDF.js](https://img.shields.io/badge/PDF.js-111827?style=flat-square&logo=adobeacrobatreader)
 
 ---
 
