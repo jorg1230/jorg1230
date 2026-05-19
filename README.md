@@ -1,6 +1,6 @@
 <div align="center">
 
-# Jorge Luis
+# Jorge Luis Moreno Lara
 
 ### Software Engineer | Backend & Enterprise Systems | Data Platforms
 
