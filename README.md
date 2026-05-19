@@ -164,21 +164,21 @@ Mobile delivery         Android Compose, local persistence, API communication, l
 ## Data and Reporting Tools
 
 <p align="center">
-  <img height="42" src="https://cdn.simpleicons.org/powerbi/F2C811" title="Power BI" alt="Power BI" />
+  <img src="https://img.shields.io/badge/-%20-0F172A?style=for-the-badge&logo=powerbi&logoColor=F2C811" title="Power BI" alt="Power BI" />
   &nbsp;&nbsp;
-  <img height="42" src="https://cdn.simpleicons.org/chartdotjs/FF6384" title="Chart.js" alt="Chart.js" />
+  <img src="https://img.shields.io/badge/-%20-0F172A?style=for-the-badge&logo=chartdotjs&logoColor=FF6384" title="Chart.js" alt="Chart.js" />
   &nbsp;&nbsp;
-  <img height="42" src="https://cdn.simpleicons.org/react/61DAFB" title="Recharts" alt="Recharts" />
+  <img src="https://img.shields.io/badge/-%20-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" title="Recharts" alt="Recharts" />
   &nbsp;&nbsp;
-  <img height="42" src="https://cdn.simpleicons.org/android/3DDC84" title="MPAndroidChart" alt="MPAndroidChart" />
+  <img src="https://img.shields.io/badge/-%20-0F172A?style=for-the-badge&logo=android&logoColor=3DDC84" title="MPAndroidChart" alt="MPAndroidChart" />
   &nbsp;&nbsp;
-  <img height="42" src="https://cdn.simpleicons.org/microsoftexcel/217346" title="Excel, XLSX and spreadsheet processing" alt="Excel and XLSX" />
+  <img src="https://img.shields.io/badge/-%20-0F172A?style=for-the-badge&logo=microsoftexcel&logoColor=217346" title="Excel, XLSX and spreadsheet processing" alt="Excel and XLSX" />
   &nbsp;&nbsp;
-  <img height="42" src="https://cdn.simpleicons.org/php/777BB4" title="PhpSpreadsheet and SimpleXLSX" alt="PHP spreadsheet libraries" />
+  <img src="https://img.shields.io/badge/-%20-0F172A?style=for-the-badge&logo=php&logoColor=777BB4" title="PhpSpreadsheet and SimpleXLSX" alt="PHP spreadsheet libraries" />
   &nbsp;&nbsp;
-  <img height="42" src="https://cdn.simpleicons.org/javascript/F7DF1E" title="PapaParse, CSV parsing and PDFKit" alt="JavaScript data tools" />
+  <img src="https://img.shields.io/badge/-%20-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" title="PapaParse, CSV parsing and PDFKit" alt="JavaScript data tools" />
   &nbsp;&nbsp;
-  <img height="42" src="https://cdn.simpleicons.org/adobeacrobatreader/EC1C24" title="PDF generation and PDF.js" alt="PDF tools" />
+  <img src="https://img.shields.io/badge/-%20-0F172A?style=for-the-badge&logo=adobeacrobatreader&logoColor=EC1C24" title="PDF generation and PDF.js" alt="PDF tools" />
 </p>
 
 ---
