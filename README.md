@@ -3,19 +3,19 @@
 <h3 align="center">Software Engineer | DevOps and Cloud Specialist | IBM Certified | Analysis and Software Development Technologist</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank" rel="noopener noreferrer">
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=860&lines=Software+Engineer;DevOps+and+Cloud+Specialist;IBM+Certified;Analysis+and+Software+Development+Technologist;APIs%2C+Dashboards%2C+Desktop+and+Mobile+Apps" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/jorg1230">
+  <a href="https://github.com/jorg1230" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-jorg1230-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/jorge-luis-moreno-94712836b/">
+  <a href="https://www.linkedin.com/in/jorge-luis-moreno-94712836b/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Jorge%20Luis%20Moreno-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://portfolio-jm25.web.app">
+  <a href="https://portfolio-jm25.web.app" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-Live%20Website-0F172A?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Portfolio" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=jorg1230&label=Profile%20Views&color=172B4D&style=for-the-badge" alt="Profile views" />
@@ -30,7 +30,7 @@
   &nbsp;|&nbsp;
   <a href="#github-analytics">GitHub Analytics</a>
   &nbsp;|&nbsp;
-  <a href="https://portfolio-jm25.web.app">Portfolio</a>
+  <a href="https://portfolio-jm25.web.app" target="_blank" rel="noopener noreferrer">Portfolio</a>
 </h4>
 
 ---
@@ -64,10 +64,10 @@ System delivery    APIs, authentication, file uploads, reports, mobile sync
 ## Portfolio
 
 <p align="center">
-  <a href="https://portfolio-jm25.web.app">
+  <a href="https://portfolio-jm25.web.app" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Open%20Portfolio-portfolio--jm25.web.app-111827?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Open Portfolio" />
   </a>
-  <a href="https://github.com/jorg1230/portfolio">
+  <a href="https://github.com/jorg1230/portfolio" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Source%20Code-GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Source Code" />
   </a>
 </p>
